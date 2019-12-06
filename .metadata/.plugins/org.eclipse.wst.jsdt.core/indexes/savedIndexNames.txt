@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/gbemisola/SemicolonProject/workSpaceMag/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1129568435.index
+369666674.index
+1967696125.index
+2040378196.index
+2339519238.index
+3332801230.index

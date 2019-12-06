@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.project.spaceHub.DTO;
+
+/**
+ * @author gbemisola
+ *
+ */
+public class AdminDTO {
+	
+	private String username;
+	
+	private String email;
+	
+	private String password;
+
+}

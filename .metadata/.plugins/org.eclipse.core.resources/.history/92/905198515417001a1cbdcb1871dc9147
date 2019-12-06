@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.project.spaceHub_service_adminService;
+
+/**
+ * @author gbemisola
+ *
+ */
+public interface AdminServices {
+
+}

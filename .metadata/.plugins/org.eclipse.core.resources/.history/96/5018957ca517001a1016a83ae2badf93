@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.project.spaceHub.repository;
+
+/**
+ * @author gbemisola
+ *
+ */
+public interface AdminJpaRepository {
+
+}

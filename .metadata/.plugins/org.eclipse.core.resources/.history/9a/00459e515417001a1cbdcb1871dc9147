@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.project.spaceHub_entities_models.DTO;
+
+/**
+ * @author gbemisola
+ *
+ */
+public class AdminDTO {
+
+}

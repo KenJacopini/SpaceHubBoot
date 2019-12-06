@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.project.spaceHub;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author gbemisola
+ *
+ */
+@RestController
+public class AdminController {
+	
+	@RequestMapping("admin/home")
+	
+	public void home() {
+		System.out.println("Welcome Admin");
+		
+	}
+	
+}
